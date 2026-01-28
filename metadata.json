@@ -1,0 +1,7 @@
+{
+  "name": "Rentme - Verified End-to-End Rentals",
+  "description": "A premium, verified-first UK rentals and spare rooms marketplace that handles the entire journey from discovery to move-in.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
